@@ -9,5 +9,6 @@
 	<classpathentry kind="lib" path="D:/Rohit_Folder/MAXIMUS/SELENIUM/Selinum/libs/guava-25.0-jre.jar"/>
 	<classpathentry kind="lib" path="D:/Rohit_Folder/MAXIMUS/SELENIUM/Selinum/libs/okhttp-3.11.0.jar"/>
 	<classpathentry kind="lib" path="D:/Rohit_Folder/MAXIMUS/SELENIUM/Selinum/libs/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="D:/Rohit_Folder/MAXIMUS/SELENIUM/TestNG JAR/testng-7.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
